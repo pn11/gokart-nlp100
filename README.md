@@ -1,5 +1,9 @@
 # gokart で言語処理100本ノックをやってみる
 
+Qiita に記事を書いた。
+
+- [gokart で言語処理100本ノックをやってみる - Qiita](https://qiita.com/pn11/items/74b36ad10034c93f6692)
+
 ## gokart とは
 
 [gokart](https://github.com/m3dev/gokart) はエムスリーが開発している機械学習パイプラインツール。 Spotify により開発されている [luigi](https://github.com/spotify/luigi) のラッパーになっていてより簡単に書くことができる。  

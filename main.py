@@ -310,4 +310,8 @@ class RunAllTask(gokart.TaskOnKart):
 
 
 if __name__ == '__main__':
-    gokart.run(['RunAllTask', '--local-scheduler', '--rerun'])
+    # gokart.run(['RunAllTask', '--local-scheduler', '--rerun'])
+    # luigid で動かす
+    # gokart.run(['RunAllTask', '--rerun'])
+    # タスクの依存関係を出力する
+    # print(gokart.make_task_info_as_tree_str(RunAllTask()))
